@@ -52,7 +52,7 @@ colima start
 > ```
 
 #### Ubuntu/Debian specific
-
+d
 ```shell
 sudo apt-get install docker make
 ```
